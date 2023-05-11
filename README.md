@@ -1,2 +1,2 @@
 # customer-segmentation
-machine learning
+Python , Machine learning
